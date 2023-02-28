@@ -1,2 +1,2 @@
-My first readme
-this is the first git task
+0x01. Git
+this is the first task
